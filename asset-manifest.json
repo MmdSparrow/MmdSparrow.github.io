@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37c00477.css",
+    "main.js": "/static/js/main.705989c2.js",
+    "static/js/787.fee594ab.chunk.js": "/static/js/787.fee594ab.chunk.js",
+    "static/media/course-summer-1400.jpg": "/static/media/course-summer-1400.f414c22feb9b4d96a7ac.jpg",
+    "static/media/course-fall-1400.jpg": "/static/media/course-fall-1400.7389df98d7e97ba170c1.jpg",
+    "static/media/roboto-v29-latin-regular.svg": "/static/media/roboto-v29-latin-regular.1b1af1e4b3a278058097.svg",
+    "static/media/roboto-v29-latin-500.svg": "/static/media/roboto-v29-latin-500.29ec91e5b4e3ec4c3200.svg",
+    "static/media/roboto-v29-latin-500.ttf": "/static/media/roboto-v29-latin-500.ff105b19a81f2dd4a684.ttf",
+    "static/media/roboto-v29-latin-regular.ttf": "/static/media/roboto-v29-latin-regular.69358f64aea6fd09499a.ttf",
+    "static/media/roboto-v29-latin-500.woff": "/static/media/roboto-v29-latin-500.ddd11dabeca881d49f59.woff",
+    "static/media/roboto-v29-latin-regular.woff": "/static/media/roboto-v29-latin-regular.9b78ea3bc4f00e508f01.woff",
+    "static/media/roboto-v29-latin-500.eot": "/static/media/roboto-v29-latin-500.b33fff411a88b40a9e54.eot",
+    "static/media/roboto-v29-latin-regular.eot": "/static/media/roboto-v29-latin-regular.160fbc69802809bdb0ef.eot",
+    "static/media/roboto-v29-latin-500.woff2": "/static/media/roboto-v29-latin-500.869888415d0b1a99ae5c.woff2",
+    "static/media/roboto-v29-latin-regular.woff2": "/static/media/roboto-v29-latin-regular.4673b4537a84c7f7a130.woff2",
+    "static/media/mathhouse-green.svg": "/static/media/mathhouse-green.4b5126823088efe8536b3c2fa55d6779.svg",
+    "static/media/dota.svg": "/static/media/dota.9ab372116b5c47f270b7c8e40cd880cf.svg",
+    "static/media/mysql.svg": "/static/media/mysql.8107588f7dd31628293c9153e0491914.svg",
+    "static/media/java.svg": "/static/media/java.56a7c05b88cabc8a906bbadc212b4a6e.svg",
+    "index.html": "/index.html",
+    "static/media/fanap-green.svg": "/static/media/fanap-green.117814b3db75a90cc0b12d854734d184.svg",
+    "static/media/c.svg": "/static/media/c.75ab92025abdc5b8c9a9feff22c83548.svg",
+    "static/media/python.svg": "/static/media/python.b791a96d4b9250dc4bd63973bd1c4352.svg",
+    "static/media/js.svg": "/static/media/js.6bd67b5c9cda9f80ff6042d6a737ddc5.svg",
+    "main.37c00477.css.map": "/static/css/main.37c00477.css.map",
+    "main.705989c2.js.map": "/static/js/main.705989c2.js.map",
+    "787.fee594ab.chunk.js.map": "/static/js/787.fee594ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37c00477.css",
+    "static/js/main.705989c2.js"
+  ]
+}
